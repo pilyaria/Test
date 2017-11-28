@@ -1,0 +1,15 @@
+git  список всех возможных команд
+
+git status
+git add .
+git add <file name>
+git commit -m "Comment"
+
+git remote add <адрес удалённого репозитория> (строка копируется с сайта GitHub)
+git push -u origin master (строка копируется с сайта GitHub) - загружает локальный репозиторий на удалённый сервер GitHub
+
+git push  загрузить файл на удалённый репозиторий GitHub
+git clone <адрес удалённого репозитория>
+git pull  загрузить файлы из удалённого репозитория GitHub
+
+Esc + :wq  выйти из "страшного" окна с ошибками
